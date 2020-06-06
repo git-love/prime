@@ -1,0 +1,23 @@
+{
+  "name": "pr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vimalverma558/pr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vimalverma558/pr/issues"
+  },
+  "homepage": "https://github.com/vimalverma558/pr#readme",
+  "dependencies": {
+    "prime-num": "0.0.1",
+    "primeupto": "^1.1.1"
+  }
+}
